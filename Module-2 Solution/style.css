@@ -10,7 +10,7 @@ body{
 	
 	padding-top: 30px;
 	border:1px solid black; 
-	margin: 40px;
+	margin: 2px;
 	height: 100px;
 	float: left;
 	overflow: auto;
@@ -22,7 +22,8 @@ body{
 
 *{
 	box-sizing: border-box;
-	margin-left: 13px;
+	margin-left: 2px;
+	margin-right: -0px;
 }
 .he1{
 	position: absolute;
